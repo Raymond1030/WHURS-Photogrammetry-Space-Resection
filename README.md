@@ -12,6 +12,8 @@ This is a Homework of Course Photogrammetry in Wuhan University.
 
 **[空间后方交会.xmind](https://github.com/Raymond1030/WHURS-Photogrammetry-Space-Resection/blob/main/%E7%A9%BA%E9%97%B4%E5%90%8E%E6%96%B9%E4%BA%A4%E4%BC%9A.xmind)**
 
+**[报告.pdf](https://github.com/Raymond1030/WHURS-Photogrammetry-Space-Resection/blob/main/%E6%8A%A5%E5%91%8A.pdf)**
+
 **数据：**
 
 [**地面坐标.txt**](https://github.com/Raymond1030/WHURS-Photogrammetry-Space-Resection/blob/main/%E5%90%8E%E6%96%B9%E4%BA%A4%E4%BC%9A/Space%20Resection/%E5%9C%B0%E9%9D%A2%E5%9D%90%E6%A0%87.txt)
