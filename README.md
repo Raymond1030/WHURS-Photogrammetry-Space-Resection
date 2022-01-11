@@ -8,7 +8,7 @@ This is a Homework of Course Photogrammetry in Wuhan University.
 
 `@date：2021.9.17` `@language：C++`
 
-##### 原理：
+##### **原理：
 
 **[空间后方交会.xmind](https://github.com/Raymond1030/WHURS-Photogrammetry-Space-Resection/blob/main/%E7%A9%BA%E9%97%B4%E5%90%8E%E6%96%B9%E4%BA%A4%E4%BC%9A.xmind)**
 
