@@ -1,0 +1,7 @@
+﻿  SpaceResection.cpp
+C:\AImportantFile\AStudy\大三上\摄影测量学\Space Resection\Space Resection\SpaceResection.cpp(105,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\AImportantFile\AStudy\大三上\摄影测量学\Space Resection\Space Resection\SpaceResection.cpp(138,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\AImportantFile\AStudy\大三上\摄影测量学\Space Resection\Space Resection\SpaceResection.cpp(180,25): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\AImportantFile\AStudy\大三上\摄影测量学\Space Resection\Space Resection\SpaceResection.cpp(180,38): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\AImportantFile\AStudy\大三上\摄影测量学\Space Resection\Space Resection\SpaceResection.cpp(180,51): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+  Space Resection.vcxproj -> C:\AImportantFile\AStudy\大三上\摄影测量学\Space Resection\Debug\Space Resection.exe
